@@ -1,0 +1,20 @@
+{
+   "name": "accordion",
+   "version": "1.0.0",
+   "main": "accordion.js",
+   "license": "dewwweb",
+   "author": ["dewwweb"],
+   "ignore": [
+       "*.md",
+       "package.json"
+    ],
+    "devDependencies": {
+         "jquery": "1.11.2",
+         "routiejs": "1.0.0"
+     },
+     "keywords": [
+          "accordion",
+          "menu",
+          "customizeable"
+     ]  	
+}
