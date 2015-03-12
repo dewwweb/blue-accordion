@@ -10,7 +10,7 @@
     ],
     "devDependencies": {
          "jquery": "1.11.2",
-         "routiejs": "1.0.0"
+         "routie.js": "1.0.0"
      },
      "keywords": [
           "accordion",
