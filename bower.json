@@ -9,8 +9,7 @@
        "package.json"
     ],
     "devDependencies": {
-         "jquery": "1.11.2",
-         "routie.js": "1.0.0"
+         "jquery": "1.11.2"
      },
      "keywords": [
           "accordion",
