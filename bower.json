@@ -8,7 +8,7 @@
        "*.md",
        "package.json"
     ],
-    "devDependencies": {
+    "dependencies": {
          "jquery.js": "2.1.3"
      },
      "keywords": [
