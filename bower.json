@@ -9,7 +9,7 @@
        "package.json"
     ],
     "devDependencies": {
-         "jquery": "1.11.2"
+         "jquery.js": "1.11.2"
      },
      "keywords": [
           "accordion",
