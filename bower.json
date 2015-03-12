@@ -5,8 +5,7 @@
    "license": "dewwweb",
    "author": ["dewwweb"],
    "ignore": [
-       "*.md",
-       "package.json"
+       "*.md"
     ],
     "dependencies": {
          "jquery": "2.1.3"
